@@ -4,7 +4,16 @@
     "repositoryName": "asciiblog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "The Naming Problem"
+  },
+  "socialnetwork": {
+    "email": "nicolas.comet@gmail.com",
+    "twitter": "@NicolasComet",
+    "linkedin": "https://www.linkedin.com/nhome/",
+    "github": "ncomet"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
