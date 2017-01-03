@@ -9,9 +9,9 @@
   },
   "socialnetwork": {
     "email": "nicolas.comet@gmail.com",
-    "twitter": "@NicolasComet",
+    "twitter": "https://twitter.com/NicolasComet",
     "linkedin": "https://www.linkedin.com/nhome/",
-    "github": "ncomet"
+    "github": "https://github.com/ncomet/"
   },
   "theme": {
     "name": "saga"
